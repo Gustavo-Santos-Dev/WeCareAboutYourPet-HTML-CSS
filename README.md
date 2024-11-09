@@ -32,7 +32,7 @@
 
 <!-- Project link -->
 <p align="center">
-     <a href="">📱 View the Project</a>
+     <a href="https://gustavo-santos-dev.github.io/WeCareAboutYourPet-HTML-CSS/">📱 View the Project</a>
 </p>
 
 <br>
