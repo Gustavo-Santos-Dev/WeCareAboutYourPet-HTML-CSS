@@ -85,14 +85,13 @@ Before cloning the code, make sure you have the following tools installed:
 1. Clone the Repository:
 ```bash
 git clone https://github.com/Gustavo-Santos-Dev/WeCareAboutYourPet-HTML-CSS.git
-````
+```
 
 2. Enter the Project Directory:
 ```bash
 cd WeCareAboutYourPet-HTML-CSS
-````
+```
 
-<br>
 
 <h2 id="colab">🤝 Contributors</h2>
 
