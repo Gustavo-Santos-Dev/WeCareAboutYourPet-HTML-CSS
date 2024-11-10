@@ -19,9 +19,9 @@
 
 <!--- Index with reference links -->
 <p align="center">
- <a href="#tec">Technologies</a> • 
- <a href="#sobre">About the Project</a> • 
- <a href="#colab">Collaborators</a>
+ <a href="#technologies">Technologies</a> • 
+ <a href="#about">About the Project</a> • 
+ <a href="#collaborators">Collaborators</a>
 </p>
 
 <!--- Short description of the project -->
@@ -47,7 +47,7 @@
 <br>
 
 <!-- Technologies Used -->
-<h2 width="3" id="tec">💻 Technologies Used</h2>
+<h2 width="3" id="technologies">💻 Technologies Used</h2>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img width="3">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -62,7 +62,7 @@ This project was developed as part of the HTML, CSS, and Git lessons from the De
 
 
 <!--- About the project -->
-<h2 id="sobre">🚀 About the project</h2>
+<h2 id="about">🚀 About the project</h2>
 <p>The "We Care About Your Pet" website offers a user-friendly and intuitive interface, allowing users to easily navigate between the products and services sections. We used engaging illustrations and a vibrant color scheme to make the user experience more enjoyable.</p>
 
 <br>
@@ -93,7 +93,7 @@ cd WeCareAboutYourPet-HTML-CSS
 ```
 
 
-<h2 id="colab">🤝 Contributors</h2>
+<h2 id="collaborators">🤝 Contributors</h2>
 
 Special thanks to Rodolfo Mori, DevClub instructor, for his teaching and guidance in the HTML, CSS, and Git lessons, which were essential for the completion of this project.
 
